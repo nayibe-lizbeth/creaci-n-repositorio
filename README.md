@@ -1,6 +1,6 @@
 <h1> Sistema de repositorio </h1>
 
-- Estado del proyeco: En construccion
+- Estado del proyecto: En construccion
 
 Para ejecutar el sistema, debes poner: 
 
